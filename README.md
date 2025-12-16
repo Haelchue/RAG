@@ -1,5 +1,5 @@
 
-# Retreival Augmented Generation along with Evaluations 
+# Retreival Augmented Generation with Evaluations 
 
 ####  An Evaluated, Metrics-Driven RAG System for Reliable PDF Question Answering
 
