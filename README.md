@@ -99,7 +99,7 @@ Final Answer
 
 ---
 
-## 🧪 How It Works (Technical Flow)
+## Technical Flow
 
 1. **PDF Loading**
 
