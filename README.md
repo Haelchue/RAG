@@ -1,6 +1,7 @@
 
-# RAG+EVAL
-### An Evaluated, Metrics-Driven RAG System for Reliable PDF Question Answering
+# Retreival Augmented Generation along with Evaluations 
+
+####  An Evaluated, Metrics-Driven RAG System for Reliable PDF Question Answering
 
 > **An end-to-end, evaluated Retrieval-Augmented Generation (RAG) system for question answering over PDF documents, with retrieval and generation metrics.**
 
